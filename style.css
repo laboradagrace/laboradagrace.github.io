@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color:white;
+}
+
+.jumbotron{
+    background-image: url('https://wallpaper-gallery.net/images/wallpaperfor-computer/wallpaperfor-computer-3.jpg');
+    text-align: center;
+    color:white;
+}
+.row{
+    background-color: black;
+}
+
